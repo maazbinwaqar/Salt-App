@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005053076444",
+    "project_id": "track-pal-e4e07",
+    "storage_bucket": "track-pal-e4e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005053076444:android:ef95b47ece7d62eb4be519",
+        "android_client_info": {
+          "package_name": "com.salt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005053076444-mgrhj94e5bcv1a937pc07914jmevu2gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAcz82vHbvvAhs8ik8UkI6cNNXv86INNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005053076444-mgrhj94e5bcv1a937pc07914jmevu2gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
